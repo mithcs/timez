@@ -1,6 +1,8 @@
+# timez
+
 ## Description:
 
-**timez** is a simple utility that measures the execution time and resource usage of
+**timez** is a powerful utility that measures the execution time and resource usage of
 commands. It is designed to be a very lightweight and minimal solution for
 measuring the performance and resource usage of commands.
 
