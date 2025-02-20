@@ -1,13 +1,13 @@
 # timez
 
-## Description:
+## Description
 
 **timez** is a powerful utility that measures the execution time and resource usage of
 commands. It is designed to be a very lightweight and minimal solution for
 measuring the performance and resource usage of commands.
 
 
-## Features:
+## Features
 
 - Measure execution time and resource usage of commands.
 - Set the duration of the command execution.
@@ -16,7 +16,7 @@ measuring the performance and resource usage of commands.
 - Easy-to-read output
 - Lightweight
 
-## Options:
+## Options
 
 | Option | Description |
 | --- | --- |
@@ -41,7 +41,7 @@ $ ./timez sleep 5 -v
 
 ### Get Started
 
-#### Pre-compiled binaries:
+#### Pre-compiled binaries
 
 Download the latest release from the
 [releases](https://github.com/miteshhc/timez/releases) page.
@@ -49,7 +49,7 @@ Download the latest release from the
 You can either choose the statically linked binary or the dynamically linked
 binary.
 
-#### Compiling from source:
+#### Compiling from source
 
 ```
 git clone https://github.com/miteshhc/timez.git
@@ -68,13 +68,13 @@ yay -S timez
 Available [here](https://aur.archlinux.org/packages/timez).
 
 
-## License:
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE)
 file for details.
 
 
-## Contributions:
+## Contributions
 Contributions are welcome! If you have any suggestions, bug reports, or want
 to contribute enhancements, feel free to open an issue or submit a pull request.
 Let's make timez even better together!
